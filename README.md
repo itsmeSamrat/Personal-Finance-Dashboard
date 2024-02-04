@@ -18,7 +18,7 @@ Hello, everyone. This year (2024), I wanted to be more financially aware of my s
 
 I tried to find a good dashboard on the internet but couldn't find one or wasn't free. So, I made one for myself. Hopefully, it will be helpful to you all and become financially sound/aware.
 
-It's free to use and modify according to your preferences. I have added my original filler Excel Workbook and the starter budget Excel workbook here in this repo.  Add data and edit the starter budget Excel workbook. All the process is shown in the demo video. Link below.
+It's free to use and modify according to your preferences. In this repo, I have added my original filler Excel Workbook and the starter budget Excel workbook.  Add data and edit the starter budget Excel workbook. All the process is shown in the demo video. Link below.
 
 Check out the demo video on how to use the dashboard and what all the components are doing by clicking [HERE](https://youtu.be/zLxH0BjM2lg)
 
@@ -32,8 +32,8 @@ Check out the demo video on how to use the dashboard and what all the components
     git clone https://github.com/itsmeSamrat/Personal-Finance-Dashboard.git
 ```
 
-- Next, watch the video in the above link where I have given a small demo on how to add data without breaking the tables, calculation and formatting, what all the components are doing.
-- If you need more details, please see the links provide in the acknowledgement section.
+- Next, watch the video in the above link where I have given a small demo on how to add data without breaking the tables, calculation, and formatting, and what all the components are doing.
+- If you need more details, please see the links provided in the acknowledgment section.
 
 Thank you. ✌✌
 
@@ -47,7 +47,7 @@ Thank you. ✌✌
 
 ## License
 
-This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/Face-Recognition-System-for-Student-Attendance/blob/main/license.txt) file for more details.
+This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/Personal-Finance-Dashboard/blob/main/license.txt) file for more details.
 
 ## Feedback
 
