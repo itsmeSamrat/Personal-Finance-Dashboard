@@ -14,14 +14,15 @@
 
 ## Description
 
-Hello, everyone. This year (2024), I wanted to be more financially aware about my spending habit and my income source. So, being an aspiring Data Analyst, I have made a dashboard in Excel which will help me to track every income and expenses that can/have occurred.
-I tried to find a good dashboard over on the internet but couldn't find one. So, I made one for my self. Hopefully, it will be helpful to you all and become financially sound/aware.
+Hello, everyone. This year (2024), I wanted to be more financially aware of my spending habits and income source. So, being an aspiring Data Analyst, I have made a dashboard in Excel which will help me to track every income and expense that can/has occurred. 
 
-It's free to use and modify according to your preferences. I have added my original filler Excel Workbook and the starter budget Excel workbook here in this repo. Add data and edit the starter budget Excel workbook. All the process is shown in the demo video. Link below.
+I tried to find a good dashboard on the internet but couldn't find one or wasn't free. So, I made one for myself. Hopefully, it will be helpful to you all and become financially sound/aware.
 
-Check out the demo video on how to use the dashboard and what all the components are doing by clicking [HERE](https://youtu.be/Zc-t0mjkiWk)
+It's free to use and modify according to your preferences. I have added my original filler Excel Workbook and the starter budget Excel workbook here in this repo.  Add data and edit the starter budget Excel workbook. All the process is shown in the demo video. Link below.
 
-[getting started](#getting-started)
+Check out the demo video on how to use the dashboard and what all the components are doing by clicking [HERE](https://youtu.be/zLxH0BjM2lg)
+
+[Getting Started](#getting-started)
 
 ## Getting Started
 
