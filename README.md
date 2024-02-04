@@ -1,13 +1,13 @@
 <br>
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
-        <img src="https://github.com/itsmeSamrat/Face-Recognition-System-for-Student-Attendance/blob/main/misc/app.png?raw=true" 
+        <img src="https://github.com/itsmeSamrat/Personal-Finance-Dashboard/blob/main/dashboard.png?raw=true" 
         alt="Logo" width="500" height="350">
     </a>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Personal+Finance+Dashboard">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Personal+Finance+Dashboard">
 </div>
 
 <h2 align="center"> Mastering Your Money: Uncover, Analyze, Thrive </h2>
