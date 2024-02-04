@@ -2,7 +2,7 @@
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://github.com/itsmeSamrat/Personal-Finance-Dashboard/blob/main/dashboard.png?raw=true" 
-        alt="Logo" width="800" height="400">
+        alt="Logo" width="800" height="600">
     </a>
 </div>
 
